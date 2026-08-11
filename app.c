@@ -7,3 +7,6 @@ void main()
   c=a+b;
   printf("c=%d/n",c);
 }
+{
+  this is raw data
+}
